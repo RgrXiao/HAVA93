@@ -31,3 +31,9 @@ such as Men, Women, and Summer. As of now, the buttons do not do anything.
 *Created stockMod.php, stockModY.php to either remove or add selected product from stock in database.
 *Modified combo.php, men.php, and women.php as the 3 pages to display said category of products and display out of stock when out of stock.
 
+2021-04-24
+*Created Admin folder to contain al of the pages regarding administrator functions such as adding and removing stock.
+*Admin folder is password protected, username = test & password = badbunny .
+*To get to admin area here is the link, https://lx.planeta-latino.com/admin/index.php
+*Created successN.php and successY.php to route the admin after adding or removing item from stock, it informs the user that the action was successful and it presents them a link to remove or add more items from and to stock.
+*Created headerAdmin.html to display the admin menu to the admin that includes the add/remove stock pages and will include the future create/modify product pages.
