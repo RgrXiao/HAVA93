@@ -37,3 +37,4 @@ such as Men, Women, and Summer. As of now, the buttons do not do anything.
 *To get to admin area here is the link, https://lx.planeta-latino.com/admin/index.php
 *Created successN.php and successY.php to route the admin after adding or removing item from stock, it informs the user that the action was successful and it presents them a link to remove or add more items from and to stock.
 *Created headerAdmin.html to display the admin menu to the admin that includes the add/remove stock pages and will include the future create/modify product pages.
+*Got a paypal key to display PayPal checkout buttons and Google API key to autocomplete user's address.
