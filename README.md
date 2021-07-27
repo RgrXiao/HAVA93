@@ -2,6 +2,7 @@
 Hector Vega's CSC 385 Repository
 
 Here is the link to the website: https://lx.planeta-latino.com/view.php
+Here is the link to the admin website: https://lx.planeta-latino.com/admin
 
 My project is to code a clothing website for my aunt.
 My goal is to try to replicate the features from similar websites.
